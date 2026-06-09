@@ -1,0 +1,7 @@
+You awaken in a dark room.\nThere is a opening to the NORTH. \n\n(USE ARROWS TO MOVE)
+You are in a dark room, the one you woke up in.\n There is a opening to the NORTH.
+The opening leads out to a dimly lit hallway, \n going EAST and WEST. \nYou have an uneasy feeling...
+You find a statue of a robed man. His face is \nfrozen in greed staring at the WHITE KEY.\n\n(USE DOWN TO PICK UP ITEMS)
+The hallway leads to a WHITE DOOR.\n\n(USE UP TO USE ITEMS)
+As you pick up the WHITE KEY, \n you feel the statue glaring at you...
+There is a statue of a robed man. His face is \nfrozen in malice staring at you.
