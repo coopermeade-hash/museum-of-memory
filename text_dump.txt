@@ -5,3 +5,6 @@ You find a statue of a robed man. His face is \nfrozen in greed staring at the W
 The hallway leads to a WHITE DOOR.\n\n(USE UP TO USE ITEMS)
 As you pick up the WHITE KEY, \n you feel the statue glaring at you...
 There is a statue of a robed man. His face is \nfrozen in malice staring at you.
+The door unlocks easily with the WHITE KEY,\nbut opening it takes all your strength.
+You despair as the door seems locked,\nand won't budge...
+The Hallway leads to a WHITE DOOR.\nThe door is open.
